@@ -10,7 +10,11 @@ This board features the following:
 * USB-C Power Only input with status LED.
 * VBUS, regulated 3v3, and GND output headers.
 * Additional VBAT and GND headers for checking battery voltage.
+* Capable of charging **Only 3v7 Nominal >= 100mAh Single Cell LiPo Batteries**
+  * Adafruit provides compatible cells with appropriate headers: https://www.adafruit.com/product/1578 
 * Two charging status LED. Left LED indicates charging and right LED indicates complete charging.
+
+The charging capability is provided by the **MCP73831** charger IC. As mentioned, this charger IC is capable of charging single cell LiPo batteries. See the bullet list above for battery requirements and recommendation.
 
 ## Functionality
 This board can generate regulated 3v3 power given either VBUS or VBAT are active. The following truth table indicates which voltage source is used to provide power to the 3v3 regulator.
