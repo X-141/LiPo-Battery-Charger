@@ -39,7 +39,7 @@ The board was manufactured by OSHPARK and they came back perfectly! No defects w
 As for assembly, the board was assembled by me using parts sourced from Digikey. The part selection can be found in (TODO ADD BOM REFERENCE).
 
 # Schematics
-The schematics for this board can be found in (TODO ADD SCHEMATIC REFERENCE).
+The schematics for this board can be found in "LiPo_Battery_Charger_Schematic.png".
 
 # Layer Views
 The following are snapshots of each layer of the board.
