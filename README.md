@@ -26,3 +26,14 @@ This board can generate regulated 3v3 power given either VBUS or VBAT are active
 | True | True | VBUS |
 
 An important feature becomes active when both VBUS and VBAT are active. When both sources are active, the VBUS will take priority in providing power to the 3v3 regulator and to the charger IC. This means that the board will provide regulated 3v3 power and charge up the LiPo Battery. In the event where VBUS becomes inactive, VBAT will take over and provide power to the regulator.
+
+# Stackup and Assembly
+It is a two-layer board with the following stackup:
+| Layer | Type |
+| ----- | ---- |
+| L1 | PWR |
+| L2 | GND |
+
+The board was manufactured by OSHPARK and they came back perfectly! No defects were found.
+
+As for assembly, the board was assembled by me using parts sourced from Digikey. The part selection can be found in (TODO ADD BOM REFERENCE).
