@@ -40,3 +40,9 @@ As for assembly, the board was assembled by me using parts sourced from Digikey.
 
 # Schematics
 The schematics for this board can be found in (TODO ADD SCHEMATIC REFERENCE).
+
+# Layer Views
+The following are snapshots of each layer of the board.
+
+# 3D Views
+Below is the Front/Back view of the project.
