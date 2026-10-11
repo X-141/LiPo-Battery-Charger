@@ -12,3 +12,11 @@ This board features the following:
 * Additional VBAT and GND headers for checking battery voltage.
 * Two charging status LED. Left LED indicates charging and right LED indicates complete charging.
 
+## Functionality
+This board can generate regulated 3v3 power given either VBUS or VBAT are active. The following truth table indicates which voltage source is used to provide power to the 3v3 regulator.
+| VBUS Active | VBAT Active | Selected Supply |
+| ----------- | ----------- | --------------- |
+| False | False | INACTIVE |
+| False | True | VBAT |
+| True | False | VBUS |
+| True | True | VBUS |
