@@ -41,8 +41,10 @@ As for assembly, the board was assembled by me using parts sourced from Digikey.
 # Schematics
 The schematics for this board can be found in "LiPo_Battery_Charger_Schematic.png".
 
-# Layer Views
-The following are snapshots of each layer of the board.
+# Layer View
+<p align="center">
+  <img src="./LiPo_Battery_Charger_AllLayer.png" style="width:35%; height:auto;">  
+</p>
 
 # 3D Views
 Below is the Front/Back view of the project.
