@@ -36,7 +36,7 @@ It is a two-layer board with the following stackup:
 
 The board was manufactured by OSHPARK and they came back perfectly! No defects were found.
 
-As for assembly, the board was assembled by me using parts sourced from Digikey. The part selection can be found in (TODO ADD BOM REFERENCE).
+As for assembly, the board was assembled by me using parts sourced from Digikey. The part selection can be found in "LiPo_Battery_Charger_BOM.csv".
 
 # Schematics
 The schematics for this board can be found in "LiPo_Battery_Charger_Schematic.png".
