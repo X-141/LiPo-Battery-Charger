@@ -20,3 +20,5 @@ This board can generate regulated 3v3 power given either VBUS or VBAT are active
 | False | True | VBAT |
 | True | False | VBUS |
 | True | True | VBUS |
+
+An important feature becomes active when both VBUS and VBAT are active. When both sources are active, the VBUS will take priority in providing power to the 3v3 regulator and to the charger IC. This means that the board will provide regulated 3v3 power and charge up the LiPo Battery. In the event where VBUS becomes inactive, VBAT will take over and provide power to the regulator.
