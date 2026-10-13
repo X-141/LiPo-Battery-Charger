@@ -47,3 +47,13 @@ The schematics for this board can be found in "LiPo_Battery_Charger_Schematic.pn
 <p align="center">
   <img src="./LiPo_Battery_Charger_AllLayer.png" style="width:35%; height:auto;">  
 </p>
+
+# 3D Views
+Here are the front and backside images of the board in KiCAD's 3D viewer.
+<p align="center">
+  <img src="./LiPo_Battery_Charger_3DFront.png" style="width:50%; height:auto;">  
+</p>
+
+<p align="center">
+  <img src="./LiPo_Battery_Charger_3DBack.png" style="width:50%; height:auto;">  
+</p>
